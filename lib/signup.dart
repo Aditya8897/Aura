@@ -134,7 +134,7 @@ class _SignUpPageState extends State<SignUpPage> {
         ),
         const SizedBox(height: 8),
         Text(
-          "Kindly Wait",
+          "Please wait",
           style: GoogleFonts.playfairDisplay(
             color: Colors.white,
             fontSize: 18,
